@@ -1,0 +1,47 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+Can you provide alternative phrasings for the given text phrases?
+```
+
+# Answer:
+```
+Certainly! Here’s a detailed list of alternative phrasings for each of the given text phrases:
+
+1. "Bees following sound-waves I can't hear, among unbearable waves" can be alternatively phrased as:
+
+"Bees tracking inaudible sound-waves, amidst overwhelming waves."
+"Bees navigating sound-waves beyond my hearing, within unbearable waves."
+"Bees chasing sound-waves imperceptible to me, amidst relentless waves."
+"Words spilling out of my mind" can be alternatively phrased as:
+
+2. "My thoughts overflowing, pouring out from my mind."
+"Words cascading out of my mind."
+"Thoughts streaming uncontrollably from my mind."
+"No romance can ever be a business" can be alternatively phrased as:
+
+3. "Love cannot be reduced to a transaction."
+"Romance can never be merely a business deal."
+"Love defies the principles of commerce."
+"Feels the harmony of the cosmos and of diversity" can be alternatively phrased as:
+
+4. "Senses the synchronicity of the cosmos and the beauty of diversity."
+"Experiences the cosmic harmony and the richness of diversity."
+"Perceives the cosmic alignment and the variety of existence."
+"The dive before the jump" can be alternatively phrased as:
+
+5. "The plunge preceding the leap."
+"The descent before the ascent."
+"The drop before the spring."
+
+To summarize, each phrase has been rephrased with several alternatives, providing different nuances and lengths while maintaining the original meaning. These alternatives offer varied perspectives and styles, ensuring the phrases remain engaging and convey the intended message effectively.
+```

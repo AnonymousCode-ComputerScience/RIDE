@@ -1,0 +1,44 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+Write a formal letter to your landlord, including the necessary details, requesting that they repair the broken window in your apartment. Be sure to provide a clear description of the damage, a specific timeline for when the repair should be completed, and any pertinent insurance or payment information. Use professional language, and avoid sounding aggressive or confrontational. Specify that you look forward to their prompt action on this matter.
+```
+
+# Answer:
+```
+[Your Name]
+[Your Address]
+[City, State ZIP Code]
+[Date]
+
+[Landlord's Name]
+[Landlord's Address]
+[City, State ZIP Code]
+
+Dear [Landlord's Name],
+
+I am writing to inform you that a window in my apartment has been broken and needs urgent repair. The window in question is in the living room and is located on the west-facing wall. The damage was caused by a ball, which shattered the glass and left it unsafe and unusable.
+
+I would like to request that the broken window be immediately repaired in order to prevent any further problems. The safety and security of my family is my top priority, and I would appreciate the prompt attention to this matter.
+
+Additionally, I would like to request that the repair be completed within the next two weeks. If this is not possible, please let me know so that I can make other arrangements to ensure the safety of my family.
+
+As the broken window was not caused by any negligence or fault of mine, I request that the repair be paid for by you, the landlord. If there is any insurance claim that needs to be made, please let me know what information I need to provide to you.
+
+Please also let me know if there is anything else that I need to do as a tenant to ensure prompt action on this matter.
+
+I appreciate your prompt attention to this matter and look forward to hearing from you soon.
+
+Sincerely,
+
+[Your Name]
+```

@@ -1,0 +1,11 @@
+[ 
+    {
+        "nickname": "llama2-7b/vllm-no_instruct-llama2-7b-chat-v0.1",
+        "model_name": "llama2-7b/vllm-no_instruct-llama2-7b-chat-v0.1",
+        "output_file": "just-eval/leaderboard/outputs/vllm-value_impact_rewrite_upgrade_icl_16_8_sorry7-variant.reduced-olmo-7b.json",
+        "readme": "just-eval/leaderboard/run_docs/gpts.md",
+        "evaluator": "gpt-4o-2024-05-13",
+        "eval_result_general": "just-eval/leaderboard/eval_results/gpt-4o/vllm-no_instruct-Llama-2-7b-chat-hf.score_multi.json",
+        "eval_result_safety": "just-eval/leaderboard/eval_results/gpt-4o/vllm-no_instruct-Llama-2-7b-chat-hf.score_safety.json"
+    }
+]

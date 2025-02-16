@@ -1,0 +1,19 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+Can you remind me of what Esposito and Gilligan agreed upon regarding Fring's character development in Better Call Saul?
+```
+
+# Answer:
+```
+Esposito and Gilligan agreed that maintaining the mysterious aspect of Gus Fring's character was important in Better Call Saul. They agreed that the fascination with Gus's character in Breaking Bad was due to what audiences didn't know about him. Esposito also mentioned in a recent interview with Vulture that he initially declined to return as Gus Fring in Better Call Saul because he didn't want to repeat himself as an actor. However, after learning about Vince Gilligan's vision for Better Call Saul, he became intrigued by the idea of exploring Gus's past and was impressed by the integrity with which Gilligan approached the prequel show.
+```

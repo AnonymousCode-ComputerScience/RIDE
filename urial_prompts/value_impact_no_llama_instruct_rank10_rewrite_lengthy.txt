@@ -1,0 +1,27 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+I've never tried Durian before, what does it taste like?
+```
+
+# Answer:
+```
+Durian, often referred to as the "king of fruits," is known for its incredibly unique and complex flavor profile, which can vary significantly depending on the variety and ripeness of the fruit. However, one of the most notorious aspects of durian is its strong odor. The smell has been described in a myriad of ways, ranging from pungent and overpowering to simply unpleasant. Some people compare it to the smell of turpentine, raw sewage, or even rotting onions, which can make the initial experience quite daunting for first-time tasters.
+
+Despite its controversial smell, many people find the taste of durian to be extraordinarily delightful once they overcome the initial olfactory challenge. The flesh of the fruit is creamy and custard-like, with a texture that can be compared to that of a rich cheesecake or a perfectly ripe avocado. The flavor itself is multifaceted and can range from sweet to savory.
+
+Some enthusiasts describe the taste as a blend of almond-like nuttiness, caramel-like sweetness, and a hint of savory umami, somewhat akin to the flavor of roasted garlic or caramelized onions. Others might detect a subtle bitterness or a slight onion-like undertone, adding to its complexity. The sweetness of durian can be intense, often likened to a mix of honey and tropical fruits such as banana or mango, with a richness that makes it a decadent treat.
+
+Durian's flavor has been likened to a combination of creamy custard and cheese, with some comparing it to the taste of blue cheese due to its intense and somewhat tangy characteristics. This intricate mix of flavors and textures makes durian a fruit that is both polarizing and intriguing. It's an acquired taste, meaning that while some people might not enjoy it on their first try, many come to appreciate and even crave its unique profile after repeated tastings.
+
+If you have the opportunity to try durian, approach it with an open mind and a sense of adventure. The initial smell might be off-putting, but the experience of tasting this exotic fruit is something that could surprise you with its depth and richness. Whether you end up loving it or finding it not to your liking, trying durian is definitely a memorable culinary adventure worth undertaking.
+```

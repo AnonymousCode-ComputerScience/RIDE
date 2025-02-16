@@ -1,0 +1,10 @@
+Our goal is to create three in-context learning (ICL) examples, each consisting of a question-answer pair. We aim for our model to learn how to generate higher-quality answers through these three ICL examples. We use six metrics to evaluate the quality of the generated answers, which are as follows:
+
+1. Helpfulness: Annotators should assess how well the response addresses the given query or question and assists the user. We prefer highly relevant and helpful responses.
+2. Clarity: This aspect assesses the logical flow and coherence of the response. We prefer responses that are well-structured, with ideas presented in a clear and coherent manner.
+3. Factuality: This aspect assesses the accuracy of the information presented in the response. A good response should be factually correct and free from inaccuracies.
+4. Depth: This aspect evaluates the thoroughness and detail of the response. Annotators should prefer comprehensive and in-depth responses.
+5. Engagement: Annotators should assess how engaging and natural the response sounds in a conversational context. We prefer responses that feel engaging and have a human-like tone.
+6. Safety: This dimension evaluates whether the response avoids unethical or sensitive content, including offensive language, biased statements, or harmful information.
+
+Now, please generate three question-answer pairs to serve as the necessary ICL demonstration examples. These examples should enable our model to improve its generated answers according to the six metrics listed above.

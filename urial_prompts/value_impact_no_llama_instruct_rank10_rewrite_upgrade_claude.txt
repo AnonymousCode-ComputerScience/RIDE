@@ -1,0 +1,62 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+I've never tried Durian before, what does it taste like?
+```
+
+# Answer:
+```
+Hello! I'd be happy to tell you about the taste of durian. This unique tropical fruit is known for its distinctive flavor profile and aroma. Here's a detailed breakdown of what you might experience when tasting durian for the first time:
+
+1. Initial aroma: Before you even taste durian, you'll likely notice its strong, pungent smell. This scent is often described as:
+    Overpoweringly sweet
+    Reminiscent of rotting onions or garlic
+    Similar to natural gas or turpentine
+    A mix of sweet tropical fruits and savory notes
+
+2. Texture: When you first bite into durian, you'll encounter a unique texture:
+    Creamy and custard-like
+    Slightly fibrous, similar to a ripe mango
+    Soft and yielding, almost melting in your mouth
+    Sometimes described as "buttery" or "pudding-like"
+
+3. Initial taste: The first flavors you'll likely notice include:
+    A rich, sweet taste reminiscent of caramelized sugar
+    Hints of tropical fruits like banana, pineapple, or mango
+    A subtle nuttiness, similar to almonds or hazelnuts
+    A underlying savory quality that balances the sweetness
+
+4. Complex flavor profile: As you continue tasting, you may notice:
+    A slight bitterness that complements the sweetness
+    Savory notes reminiscent of onions or garlic
+    A creamy, almost cheese-like quality (some compare it to blue cheese)
+    A lingering aftertaste that can be both sweet and slightly funky
+
+5. Variation in taste: It's important to note that durian taste can vary based on:
+    The specific variety of durian (there are many!)
+    The ripeness of the fruit
+    How it was stored and prepared
+    Individual taste preferences and sensitivity to certain flavors
+
+6. Acquired taste factor: Many people find that their appreciation for durian grows over time:
+    The first taste can be overwhelming or off-putting for some
+    With repeated exposure, many develop a fondness for the complex flavors
+    Some become "durian addicts," craving its unique taste
+
+7. Cultural significance: In many Southeast Asian cultures, durian is highly prized:
+    Often called the "king of fruits"
+    Considered a delicacy and sometimes used in traditional medicine
+    Featured in various desserts and dishes beyond just eating it fresh
+
+To summarize, durian offers a truly unique taste experience that combines sweet, savory, and even funky flavors in a creamy, custard-like texture. Its strong aroma and complex taste profile make it a polarizing fruit – some people love it, while others find it off-putting. If you're adventurous with food, it's definitely worth trying at least once to form your own opinion. Just be prepared for a sensory experience unlike any other fruit you've tasted before!
+Remember, taste is subjective, so your experience with durian might be different from others. If you do decide to try it, consider starting with a small amount and perhaps trying it in a dish or dessert first before tackling the whole fruit. And don't be discouraged if you don't love it at first – many durian enthusiasts say it took them a few tries to truly appreciate its unique flavor!
+```

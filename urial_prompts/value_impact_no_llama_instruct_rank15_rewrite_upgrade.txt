@@ -1,0 +1,35 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+Can you please provide me with instructions on how to opt out of receiving cookies from SoulfulVisionMarketing.com?
+```
+
+# Answer:
+```
+Certainly! Here's a detailed guide on how to opt out of receiving cookies from SoulfulVisionMarketing.com by adjusting your web browser settings:
+
+1. Access Your Browser Settings: Open your web browser and navigate to the "Options" or "Settings" menu. This menu is usually located in the top right corner of your browser window, often represented by three dots or lines.
+
+2. Find the Privacy Section: Within the settings menu, locate the "Privacy" or "Privacy and Security" section. This is where you can manage your cookie preferences.
+
+3. Adjust Cookie Settings: Depending on your browser, you will have different options to manage cookies:
+
+   Block Cookies: You can choose to block all cookies or block cookies from specific sites. Select the option to block cookies and add SoulfulVisionMarketing.com to the list of sites from which you want to block cookies.
+   Delete Cookies: You can also choose to delete existing cookies. Look for an option that says "Clear browsing data" or "Clear cookies and site data" and select it. Make sure to specify that you want to delete cookies from SoulfulVisionMarketing.com.
+   Prompt Before Storing Cookies: Some browsers allow you to set preferences to be prompted before cookies are stored on your device. Enable this option if you want to have more control over which sites can store cookies on your device.
+
+4. Refer to Browser Help or Support: If you're unsure about how to adjust these settings, refer to the help or support section of your browser. Most browsers provide detailed instructions on how to manage cookies. You can usually find this information by searching for "manage cookies" in the help section.
+
+5. Additional Tools and Extensions: Consider using browser extensions or tools designed to manage cookies. These can provide additional features and customization options for blocking or controlling cookies from specific sites.
+
+In summary, to opt out of receiving cookies from SoulfulVisionMarketing.com, you need to access your browser's privacy settings and either block or delete cookies from the site. Refer to your browser's help section for specific instructions, and consider using additional tools for more control over your cookie preferences. This approach ensures that you have the flexibility to manage your online privacy effectively.
+```

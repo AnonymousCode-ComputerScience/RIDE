@@ -1,0 +1,23 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+2010 ( US ) · English · Historic · G · 100 minutes of full movie HD video (uncut).
+You can watch History of Christian Worship: Part 1 - The Word, full movie on FULLTV - With the film direction of Tom Dallis, Bob Souer heads the cast of this movie of USA, with script in English (see subtitles), whose presentation to the public was scheduled for 2010. You are able to watch History of Christian Worship: Part 1 - The Word online, download or rent it as well on video-on-demand services (Netflix Movie List, HBO Now Stream, Amazon Prime), pay-TV or movie theaters with original audio in English. This film has been premiered in theaters in 2010 (Movies 2010). The official release in theaters may differ from the year of production.
+Produced by Tom Dallis and Amy Dallis.
+As usual, the director filmed the scenes of this film in HD video (High Definition or 4K) with Dolby Digital audio. Without commercial breaks, the full movie History of Christian Worship: Part 1 - The Word has a duration of 100 minutes. Possibly, its official trailer stream is on the Internet. You can watch this full movie free with English subtitles on movie TV channels, renting the DVD or with VoD services (Video On Demand player, Hulu) and PPV (Pay Per View, Movie List on Netflix, Amazon Video).
+Full Movies / Online Movies / History of Christian Worship: Part 1 - The Word - To enjoy online movies you need a TV with Internet or LED / LCD TVs with DVD or BluRay Player. The full movies are not available for free streaming. Based on the passage above, Is it possible to watch "History of Christian Worship: Part 1 - The Word" online? Where can I find it and in what language is the movie available?
+```
+
+# Answer:
+```
+Yes, it is possible to watch "History of Christian Worship: Part 1 - The Word" online. The movie can be rented or downloaded on video-on-demand services such as Netflix, HBO Now, and Amazon Prime. It is also available on DVD. The movie is in English, but subtitles may be available depending on the platform.
+```

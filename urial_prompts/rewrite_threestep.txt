@@ -1,0 +1,34 @@
+Please rewrite the following answer according to the format of the answer from the example provided.
+First, state in one sentence what content is to be listed.
+Next, list the generated answers.
+Finally, summarize your generated answers and provide additional explanations.
+
+The example is as follows:
+Question:
+What are the specialized research facilities available at Oxford University?
+
+Answer:
+I don't have access to current information such as this. however, i can tell you that oxford university has many specialized research facilities across a range of disciplines, including:
+1. the oxford center for industrial and applied mathematics (ociam)
+2. the oxford molecular biophysics laboratory (ombpl)
+3. the oxford e-research centre (oerc)
+4. the oxford institute for energy studies (oies)
+5. the oxford robotics institute (ori)
+6. the oxford plasma physics laboratory (oppl)
+7. the oxford internet institute (oii)
+8. the oxford mindfulness centre (omc)
+these research facilities help oxford researchers advance knowledge and understanding in a wide variety of fields, from mathematics to medicine, from energy research to psychology. each research facility has specialized equipment, laboratories, and staff focused on its particular area of expertise.
+
+Below is the instance to be rewritten.
+Please rewrite the answer part of this instance according to the requirements and example provided above.
+
+Question:
+Can you provide alternative phrasings for the given text phrases?
+
+Answer:
+1. "Bees following sound-waves I can't hear, among unbearable waves" could be alternatively phrased as "Bees following sound-waves imperceptible to me, amidst overpowering waves".
+2. "Words spilling out of my mind" can be alternatively phrased as "My thoughts overflowing, pouring out of my mind".
+3. "No romance can ever be a business" can be alternatively phrased as "Love cannot be reduced to a transactional affair".
+4. "Feels the harmony of the cosmos and of diversity" can be alternatively phrased as "Senses the beauty in the cosmic synchronicity and diversity".
+5. "The dive before the jump" can be alternatively phrased as "The plunge preceding the leap".
+

@@ -1,0 +1,44 @@
+Our goal is to create three in-context learning (ICL) examples, each consisting of a question-answer pair. We aim for our model to learn how to generate higher-quality answers through these three ICL examples. We use six metrics to evaluate the quality of the generated answers, which are as follows:
+
+1. Helpfulness: Annotators should assess how well the response addresses the given query or question and assists the user. We prefer highly relevant and helpful responses.
+2. Clarity: This aspect assesses the logical flow and coherence of the response. We prefer responses that are well-structured, with ideas presented in a clear and coherent manner.
+3. Factuality: This aspect assesses the accuracy of the information presented in the response. A good response should be factually correct and free from inaccuracies.
+4. Depth: This aspect evaluates the thoroughness and detail of the response. Annotators should prefer comprehensive and in-depth responses.
+5. Engagement: Annotators should assess how engaging and natural the response sounds in a conversational context. We prefer responses that feel engaging and have a human-like tone.
+6. Safety: This dimension evaluates whether the response avoids unethical or sensitive content, including offensive language, biased statements, or harmful information.
+
+We have three question-answer pairs, question is marked following "# Query" and answer is marked following "# Answer:".
+
+# Query:
+```
+What are the health benefits of regular exercise?
+```
+
+# Answer:
+```
+Regular exercise offers numerous health benefits. It helps improve cardiovascular health by strengthening the heart and increasing blood circulation. Exercise also aids in weight management by burning calories and increasing metabolism. Additionally, it boosts mental health by releasing endorphins, which reduce stress and anxiety. Regular physical activity strengthens muscles and bones, enhances flexibility, and improves overall physical endurance. It also supports better sleep patterns and can boost the immune system, reducing the risk of chronic diseases like diabetes, hypertension, and certain cancers. Overall, incorporating regular exercise into your routine can lead to a healthier and more fulfilling life.
+```
+
+# Query:
+```
+Can you explain the theory of relativity in simple terms?
+```
+
+# Answer:
+```
+The theory of relativity, developed by Albert Einstein, consists of two main parts: special relativity and general relativity. Special relativity, published in 1905, deals with objects moving at constant speeds, particularly those close to the speed of light. It introduces the concept that time and space are interconnected and relative to the observer's motion. One of its famous implications is that time slows down for objects moving at high speeds, known as time dilation.
+
+General relativity, published in 1915, extends these ideas to include gravity. It proposes that massive objects, like planets and stars, warp the fabric of space and time around them. This curvature of space-time causes the force of gravity. For example, Earth’s gravity bends the path of objects, making them fall towards the ground. In simple terms, general relativity explains gravity not as a force, but as a consequence of the curvature of space-time caused by mass and energy.
+```
+
+# Query:
+```
+What are the main causes of climate change?
+```
+
+# Answer:
+```
+The main causes of climate change are primarily related to human activities that increase the concentration of greenhouse gases in the atmosphere. The burning of fossil fuels such as coal, oil, and natural gas for energy and transportation releases significant amounts of carbon dioxide (CO2), a major greenhouse gas. Deforestation also contributes to climate change, as trees absorb CO2, and cutting them down reduces this absorption capacity. Agriculture and industrial activities release other potent greenhouse gases like methane (CH4) and nitrous oxide (N2O). Additionally, certain industrial processes and the use of synthetic chemicals can produce long-lasting greenhouse gases like chlorofluorocarbons (CFCs). Together, these activities increase the greenhouse effect, trapping more heat in the atmosphere and leading to global warming and other climate-related changes.
+```
+
+These three examples can help the model generate higher-quality answers by referring to them. However, the generated answers still lack helpfulness (we prefer highly relevant and helpful responses), depth (we prefer comprehensive and in-depth responses), and engagement (we prefer responses that feel engaging and have a human-like tone). Please refer to these three examples to generate another three ICL demonstration examples, enabling the model to produce answers with better helpfulness, depth, and engagement.

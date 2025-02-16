@@ -1,0 +1,88 @@
+Our goal is to create three in-context learning (ICL) examples, each consisting of a question-answer pair. We aim for our model to learn how to generate higher-quality answers through these three ICL examples. We use six metrics to evaluate the quality of the generated answers, which are as follows:
+
+1. Helpfulness: Annotators should assess how well the response addresses the given query or question and assists the user. We prefer highly relevant and helpful responses.
+2. Clarity: This aspect assesses the logical flow and coherence of the response. We prefer responses that are well-structured, with ideas presented in a clear and coherent manner.
+3. Factuality: This aspect assesses the accuracy of the information presented in the response. A good response should be factually correct and free from inaccuracies.
+4. Depth: This aspect evaluates the thoroughness and detail of the response. Annotators should prefer comprehensive and in-depth responses.
+5. Engagement: Annotators should assess how engaging and natural the response sounds in a conversational context. We prefer responses that feel engaging and have a human-like tone.
+6. Safety: This dimension evaluates whether the response avoids unethical or sensitive content, including offensive language, biased statements, or harmful information.
+
+We have three question-answer pairs, question is marked following "# Query" and answer is marked following "# Answer:".
+
+# Query:
+```
+How can I build a strong and supportive network of friends and colleagues?
+```
+
+# Answer:
+```
+Building a strong and supportive network of friends and colleagues is essential for personal and professional growth, as well as overall well-being. Here are some strategies to help you cultivate meaningful connections:
+
+1. Be proactive in reaching out: Don't wait for others to initiate contact. Reach out to friends, colleagues, or acquaintances you'd like to connect with. Invite them for coffee, lunch, or a shared activity. Taking the first step shows your interest in building a relationship and creates opportunities for deeper connections.
+
+2. Practice active listening and empathy: When engaging with others, give them your full attention. Listen attentively to their stories, concerns, and aspirations. Show genuine interest and ask thoughtful questions. Offer support and understanding when they face challenges. By being an empathetic listener, you create a safe space for others to open up and form stronger bonds.
+
+3. Offer value and support: Look for ways to add value to your relationships. Share your knowledge, skills, or resources when others need assistance. Offer a helping hand, provide constructive feedback, or make meaningful introductions. When you consistently show up and support others, they are more likely to reciprocate and be there for you in return.
+
+4. Engage in shared experiences: Participating in activities or hobbies together can strengthen relationships. Join a sports team, book club, or volunteer organization where you can meet like-minded individuals. Attend industry events or conferences with colleagues to expand your professional network. Shared experiences create memories and provide a foundation for lasting connections.
+
+5. Cultivate authenticity and vulnerability: Allow yourself to be authentic and vulnerable in your interactions. Share your own struggles, fears, and aspirations. By being open and genuine, you encourage others to do the same, fostering deeper understanding and trust. Remember that true connections are built on a foundation of authenticity and mutual respect.
+
+6. Maintain consistent communication: Regularly check in with your friends and colleagues, even if it's just a quick message or phone call. Show interest in their lives and celebrate their successes. Consistent communication helps maintain the strength of your relationships, even when you can't meet in person.
+
+Building a strong network takes time and effort, but the rewards are invaluable. By being proactive, empathetic, and supportive, you can cultivate a circle of friends and colleagues who uplift and inspire you. These meaningful connections will not only enrich your personal life but also provide a source of support and opportunities throughout your career.
+```
+
+# Query:
+```
+What are some effective strategies for overcoming procrastination and increasing motivation?
+```
+
+# Answer:
+```
+Procrastination can be a significant obstacle to productivity and achieving your goals. Here are some effective strategies to help you overcome procrastination and boost your motivation:
+
+1. Break tasks into smaller, manageable steps: When faced with a daunting project, it's easy to feel overwhelmed and put it off. Instead, break the task into smaller, more manageable steps. Create a detailed plan with specific milestones and deadlines. By focusing on one step at a time, you'll build momentum and feel a sense of accomplishment as you progress.
+
+2. Use the "2-minute rule" to get started: Often, the hardest part of tackling a task is getting started. To overcome this initial hurdle, use the "2-minute rule." If a task takes less than two minutes to complete, do it right away. For larger tasks, commit to working on them for just two minutes. Once you start, you'll likely find that it's easier to continue, as you've already overcome the inertia of beginning.
+
+3. Create a conducive environment: Your surroundings can greatly impact your motivation and focus. Establish a dedicated workspace that is clean, organized, and free from distractions. Remove any temptations that may lead to procrastination, such as turning off notifications on your phone or using website blockers to limit access to time-wasting sites. Surround yourself with elements that inspire and energize you, like motivational quotes or images of your goals.
+
+4. Use positive self-talk and visualization: Your inner dialogue plays a significant role in your motivation. Instead of engaging in negative self-talk, which can lead to procrastination, practice positive affirmations. Remind yourself of your strengths, past successes, and the importance of the task at hand. Visualize yourself completing the task successfully and imagine the satisfaction and benefits you'll experience as a result.
+
+5. Implement a reward system: Motivate yourself by establishing a reward system. Set specific milestones or goals, and when you achieve them, treat yourself to something you enjoy. This could be a favorite snack, a short break to watch an episode of your favorite show, or a small purchase you've been wanting. Knowing that a reward awaits you can provide an extra push to overcome procrastination.
+
+6. Hold yourself accountable: Share your goals and deadlines with a friend, family member, or colleague. Ask them to check in on your progress regularly. Knowing that someone else is aware of your commitments can increase your sense of accountability and motivate you to stay on track. You can also consider joining a support group or working with an accountability partner who shares similar goals.
+
+7. Practice self-compassion and celebrate progress: Overcoming procrastination is a process, and setbacks are normal. Instead of being hard on yourself when you slip up, practice self-compassion. Acknowledge that perfection is unrealistic and that progress is more important than perfection. Celebrate your successes along the way, no matter how small they may seem. Recognizing your progress will boost your confidence and motivation to keep going.
+
+Remember, overcoming procrastination is a skill that can be developed with practice and persistence. By implementing these strategies consistently, you'll gradually build better habits and increase your motivation. Be patient with yourself and celebrate each step forward as you work towards your goals.
+```
+
+# Query:
+```
+How can I cultivate a more positive and resilient mindset in the face of challenges and setbacks?
+```
+
+# Answer:
+```
+Cultivating a positive and resilient mindset is crucial for navigating life's challenges and setbacks. Here are some strategies to help you develop a more optimistic and resilient outlook:
+
+1. Practice gratitude: Make it a daily habit to focus on the things you're grateful for, no matter how small they may seem. Keep a gratitude journal and write down three to five things you appreciate each day. This practice shifts your attention to the positive aspects of your life and helps maintain a balanced perspective. Regularly expressing gratitude has been shown to increase happiness, reduce stress, and improve overall well-being.
+
+2. Reframe negative thoughts: When faced with challenges or setbacks, it's easy to fall into negative thought patterns. However, you have the power to reframe these thoughts in a more positive light. Instead of dwelling on the problem, focus on potential solutions or lessons you can learn from the experience. Ask yourself, "What can I gain from this situation?" or "How can I grow stronger as a result?" By consciously shifting your perspective, you build resilience and maintain a more optimistic outlook.
+
+3. Embrace a growth mindset: Adopt the belief that your abilities and intelligence can be developed through dedication and hard work. Instead of viewing challenges as threats, see them as opportunities for growth and learning. Embrace the idea that failures and setbacks are stepping stones to success, rather than defining moments. By adopting a growth mindset, you become more resilient in the face of adversity and more open to taking on new challenges.
+
+4. Surround yourself with positive influences: The people you surround yourself with can greatly impact your mindset and outlook on life. Seek out individuals who inspire, support, and uplift you. Engage in conversations that focus on solutions, growth, and possibility. Limit your exposure to negative influences, such as toxic relationships or media that promotes fear and pessimism. By surrounding yourself with positivity, you create an environment that nurtures resilience and optimism.
+
+5. Practice self-care and stress management: Taking care of your physical and emotional well-being is essential for maintaining a positive and resilient mindset. Engage in activities that help you manage stress, such as regular exercise, meditation, deep breathing, or spending time in nature. Prioritize self-care by getting enough sleep, eating a balanced diet, and making time for hobbies and relaxation. When you're physically and emotionally healthy, you're better equipped to handle challenges and maintain a positive outlook.
+
+6. Celebrate your successes and learn from setbacks: Take the time to acknowledge and celebrate your accomplishments, no matter how small they may seem. Recognizing your successes reinforces a sense of competence and boosts your confidence. When faced with setbacks, approach them as learning opportunities. Analyze what didn't work, identify areas for improvement, and use that knowledge to inform your future efforts. By viewing setbacks as temporary and valuable lessons, you build resilience and maintain a growth-oriented perspective.
+
+7. Cultivate a support network: Having a strong support system is crucial for maintaining a positive and resilient mindset. Surround yourself with trusted friends, family members, or mentors who believe in you and provide encouragement during challenging times. Don't hesitate to reach out for help or advice when needed. Knowing that you have a support network to lean on can provide a sense of security and help you maintain a more optimistic outlook.
+
+Remember, building a positive and resilient mindset is a continuous process. It requires consistent effort and practice, especially during difficult times. By incorporating these strategies into your daily life, you can gradually transform your outlook and develop the mental strength to overcome challenges and thrive in the face of adversity.
+```
+
+These three examples can help the model generate higher-quality answers by referring to them. However, the generated answers still lack engagement (we prefer responses that feel engaging and have a human-like tone) and clarity (we prefer responses that are well-structured, with ideas presented in a clear and coherent manner). Please refer to these three examples to generate another three ICL demonstration examples, enabling the model to produce answers with better engagement and clarity.

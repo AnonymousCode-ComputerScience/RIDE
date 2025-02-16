@@ -1,0 +1,40 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+Write a JavaScript program that generates a random color and displays it on a web page.
+```
+
+# Answer:
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Random Color Generator</title>
+</head>
+<body>
+	<h1>Random Color Generator</h1>
+	<p>Click the button below to generate a new random color:</p>
+	<button onclick="generateColor()">Generate Color</button>
+	<div id="colorDisplay" style="margin-top: 20px; width: 100px; height: 100px; border: 2px solid black;"></div>
+
+	<script>
+		function generateColor() {
+			// Generate a random color in hexadecimal format
+			var color = Math.floor(Math.random()*16777215).toString(16);
+
+			// Set the background color of the colorDisplay div to the generated color
+			document.getElementById("colorDisplay").style.backgroundColor = "#" + color;
+		}
+	</script>
+</body>
+</html>
+```

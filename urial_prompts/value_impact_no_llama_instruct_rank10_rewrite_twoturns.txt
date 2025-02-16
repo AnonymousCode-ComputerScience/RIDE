@@ -1,0 +1,45 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+I've never tried durian before, what does it taste like?
+```
+
+# Answer:
+```
+Durian is known for its unique and distinct taste. Here are some key points about its flavor:
+
+1. Odor: Durian has a strong, pungent smell that many people find unpleasant.
+
+2. Texture: The flesh is creamy and custard-like.
+
+3. Flavor Variability: Its taste can range from sweet and creamy to savory and onion-like.
+
+In summary, durian's taste is a combination of sweet, creamy, and sometimes savory flavors, with a texture that is often described as custard-like. Its unique flavor profile makes it an acquired taste that not everyone enjoys.
+```
+
+# Query:
+```
+I’ve heard a lot about the distinct smell of durian. Can you explain more about the taste and why it’s so polarizing?
+```
+
+# Answer:
+```
+Absolutely, the taste of durian is quite polarizing due to several factors that contribute to its unique flavor profile. Let's dive deeper into what makes durian's taste so distinctive and why opinions on it vary so widely:
+
+1. Complex Flavor Profile: Durian’s taste is a complex blend of sweet and savory. The sweetness comes with creamy, custard-like notes that many liken to a blend of caramel and vanilla. The savory aspect can resemble the taste of onions, garlic, or even cheese, creating a unique combination that can be jarring to those unfamiliar with it.
+
+2. Cultural Significance: In many Southeast Asian cultures, durian is considered a delicacy and is often enjoyed in various forms, from fresh to cooked in desserts. This cultural appreciation can influence one’s perception of its taste, making it more palatable for those who grew up with it.
+
+3. Individual Sensitivities: People’s taste buds and olfactory senses react differently to durian. Some might find the combination of sweet and savory appealing, while others might be overwhelmed by its intensity. The fruit's high sulfur content contributes to both its strong odor and its polarizing taste.
+
+The polarizing nature of durian's taste is a fascinating example of how sensory experiences are subjective and influenced by cultural and individual factors. While some might find its flavor off-putting, others cherish it as a unique and delicious treat.
+```

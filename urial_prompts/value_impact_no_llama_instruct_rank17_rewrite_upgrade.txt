@@ -1,0 +1,35 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+Can you summarize the judging process of the street poetry competition?
+```
+
+# Answer:
+```
+Of course! Here's a detailed breakdown of how the judging process for the street poetry competition works:
+
+1. Initial Round: All 17 poets perform their pieces in the first round. They are not allowed to use any notes or props, ensuring that the focus remains on their words and delivery.
+
+2. Break and Selection: After all poets have performed, there's a break during which the judges deliberate. Based on the performances, the judges select the top 10 poets to advance to the second round.
+
+3. Second Round: In this round, the 10 poets who were selected continue to perform. Once again, they present their poetry without any aids. The judges then score these performances to determine the top five poets who will move on to the final round.
+
+4. Final Round: The five poets with the highest scores from the second round compete in the final round. Each poet performs another piece, aiming to impress the judges one last time.
+
+5. Winner Selection: The judges evaluate the performances from the final round and tally the scores from all rounds. The poet with the highest cumulative score is declared the winner.
+
+6. Awarding the Champion: The champion of the street poetry competition is awarded a $500 check as the prize for their outstanding performance.
+
+To summarize, the street poetry competition judging process involves three performance rounds where poets present their work without notes or props. Judges select poets to advance based on their performances, narrowing down from 17 poets to 10, then to five, and finally choosing a winner. The winner receives a $500 check, recognizing their excellence in poetry.
+
+This methodical and transparent judging process ensures that only the most captivating and skillful poets progress through the rounds and ultimately win the competition.
+```

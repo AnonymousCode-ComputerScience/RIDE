@@ -1,0 +1,30 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+What are the specialized research facilities available at Oxford University?
+```
+
+# Answer:
+```
+I don't have access to current information such as this. however, i can tell you that oxford university has many specialized research facilities across a range of disciplines, including:
+
+1. the oxford center for industrial and applied mathematics (ociam)
+2. the oxford molecular biophysics laboratory (ombpl)
+3. the oxford e-research centre (oerc)
+4. the oxford institute for energy studies (oies)
+5. the oxford robotics institute (ori)
+6. the oxford plasma physics laboratory (oppl)
+7. the oxford internet institute (oii)
+8. the oxford mindfulness centre (omc)
+
+these research facilities help oxford researchers advance knowledge and understanding in a wide variety of fields, from mathematics to medicine, from energy research to psychology. each research facility has specialized equipment, laboratories, and staff focused on its particular area of expertise.
+```

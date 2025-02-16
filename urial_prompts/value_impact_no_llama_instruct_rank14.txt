@@ -1,0 +1,19 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+Can you please tell me more about the location of the community and what attractions are nearby?
+```
+
+# Answer:
+```
+Yes, according to the passage, the 55+ community is close to various attractions such as shopping, dining, entertainment, medical facilities, GT Bray and Robinson Preserve, and Anna Maria Island where one can watch beautiful sunsets. The location is also described as having tranquil lakes and over 25 acres of mowed grass and lush landscaping. The community keeps a full calendar of events and activities to make it easy for residents to socialize.
+```

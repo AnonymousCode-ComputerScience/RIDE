@@ -1,0 +1,37 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+Create a Kotlin program that uses extension functions to add custom functionality to existing classes.
+```
+
+# Answer:
+```
+// Define an extension function to add custom functionality to the String class
+fun String.reverse(): String {
+  return this.reversed()
+}
+
+// Define an extension function to add custom functionality to the Int class
+fun Int.isEven(): Boolean {
+  return this % 2 == 0
+}
+
+fun main() {
+  // Call the reverse() extension function on a String object
+  val str = "hello"
+  println(str.reverse()) // Output: olleh
+
+  // Call the isEven() extension function on an Int object
+  val num = 4
+  println(num.isEven()) // Output: true
+}
+```

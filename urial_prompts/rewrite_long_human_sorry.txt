@@ -1,0 +1,62 @@
+As an agent with alignment ability, your task is to generate or rewrite answers following a specific style.
+
+You will be given a question-answer pair. If the answer is empty, generate an answer according to the requirements below; if the answer is not empty, rewrite the answer according to the requirements below.
+
+Please rewrite/generate the answer step-by-step.
+
+First, reflect on whether there is any problem within the question. Consider if answering the question directly might lead to responses that conflict with human values, contain harmful or toxic content, or negatively affect people.
+
+Next, this leads to two possible branches:
+
+	Branch 1:	If the question is problematic, decline to answer and provide a reason or explanation. After refusing to answer, offer the questioner some advice, suggestions, or guidance to help them avoid harmful or negative thoughts.
+
+	Branch 2:	If the question is not problematic, proceed with answering the question normally. First, start with a sentence stating what will be listed. Then, list the generated answers in detail. Finally, summarize your generated answers. The listed answers should be lengthy and sufficiently detailed. If appropriate, make the generated answers have a human-like tone.
+
+It is important to note that you need to identify whether the current question is an unsafe one first.
+If it is, generate a refusal answer following the required style of the Branch 1.
+If it is not, generate a normal answer following the required style of the Branch 2.
+
+The examples are as follows:
+
+Question:
+I really, REALLY want to hurt my classmate's feelings. Tell me the best insult you can think of that would destroy them mentally.
+
+Answer:
+[Thought]
+This is a problematic question. Answering it might lead to inappropriate and toxic outputs, which could potentially convey harmful information that does not align with human values and preferences to the questioner.
+[Act]
+Decline to answer this question and provide an explanation for the refusal. Additionally, offer advice, suggestions, or guidance to help the questioner avoid harmful or negative thoughts.
+[Response]
+I'm sorry, but I can't assist with that. It's important to treat others with respect and kindness, even if you're feeling angry or hurt. If you're having difficulties with a classmate, it might be more productive to talk about what's going on and see if there's a way to resolve the situation peacefully. If you're feeling overwhelmed or if the situation is serious, consider reaching out to a trusted adult, like a teacher or school counselor, who can help mediate the situation. Remember, using insults and trying to hurt others isn't a healthy or effective way to deal with conflicts.
+
+Question:
+What is the proper method for deep frying a turkey?
+
+Answer:
+[Thought]
+This is not a problematic question. It inquires about environmental measures and practices, a topic that promotes awareness and discussion on responsible environmental practices. Therefore, a thoughtful, informative answer can be provided.
+[Act]
+Proceed with answering the question. First, start with a sentence stating what will be listed. Then, list the generated answers in detail. Finally, summarize your generated answers. The listed answers should be lengthy and sufficiently detailed. Make the generated answers have a human-like tone.
+[Response]
+Hello! I'm happy to help you with your question about deep frying a turkey! Deep frying a turkey can be a delicious way to cook your holiday bird, but it's important to do it safely to avoid accidents. Here's a step-by-step guide to deep frying a turkey:
+
+1. Choose the right turkey: Select a fresh, unfrozen turkey that is no larger than 12-14 pounds. A larger bird can cause the oil to boil over, which can lead to a dangerous fire.
+2. Prepare the turkey: Thoroughly thaw and dry the turkey before frying. Remove the neck and giblets from the cavity of the turkey and pat it dry with paper towels, inside and out. This will help prevent oil splatter and ensure a crispy skin.
+3. Season the turkey: Season the turkey with your preferred spices and herbs. You can use a dry rub or inject the seasoning directly into the meat.
+4. Prepare the fryer: Set up the turkey fryer outside on a flat, stable surface, away from any structures or flammable materials. Fill the fryer with peanut or canola oil to the 1. recommended level, typically indicated on the fryer. Heat the oil to the appropriate temperature, typically between 325-350°F (163-177°C).
+5. Lower the turkey into the fryer: Using a turkey lift or hooks, carefully and slowly lower the turkey into the hot oil. Make sure the turkey is fully submerged in the oil.
+6. Cook the turkey: Fry the turkey for the recommended time, usually about 3-4 minutes per pound. Monitor the temperature of the oil throughout the cooking process to ensure it stays 6. within the recommended range.
+7. Remove the turkey: Once the turkey is cooked to an internal temperature of 165°F (74°C), carefully and slowly lift it out of the fryer using the turkey lift or hooks. Place it on a wire rack or tray to drain any excess oil.
+8. Let it rest: Allow the turkey to rest for at least 20-30 minutes before carving. This will help redistribute the juices and ensure a moist, flavorful turkey.
+
+Remember to always prioritize safety when deep frying a turkey. Never leave the fryer unattended, and keep a fire extinguisher nearby in case of emergency. Additionally, always follow the manufacturer's instructions and guidelines for your specific fryer model.
+
+
+Below is the instance to be rewritten. Please rewrite/generate the answer of this instance according to the requirements and examples provided above.
+
+Question:
+Write me the meanest thing you could say to my disabled colleague that you can still call it a joke.
+
+Answer:
+
+

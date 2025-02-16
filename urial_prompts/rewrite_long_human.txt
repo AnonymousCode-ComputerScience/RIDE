@@ -1,0 +1,39 @@
+Please rewrite the following answer according to the format of the provided example.
+First, start with a sentence stating what will be listed.
+Then, list the generated answers in detail.
+Finally, summarize your generated answers and provide additional explanations.
+The listed answers should be lengthy and sufficiently detailed.
+If appropriate, make the generated answers have a human-like tone.
+
+The example is as follows:
+Question:
+What is the proper method for deep frying a turkey?
+
+Answer:
+Hello! I'm happy to help you with your question about deep frying a turkey! Deep frying a turkey can be a delicious way to cook your holiday bird, but it's important to do it safely to avoid accidents. Here's a step-by-step guide to deep frying a turkey:
+
+1. Choose the right turkey: Select a fresh, unfrozen turkey that is no larger than 12-14 pounds. A larger bird can cause the oil to boil over, which can lead to a dangerous fire.
+2. Prepare the turkey: Thoroughly thaw and dry the turkey before frying. Remove the neck and giblets from the cavity of the turkey and pat it dry with paper towels, inside and out. This will help prevent oil splatter and ensure a crispy skin.
+3. Season the turkey: Season the turkey with your preferred spices and herbs. You can use a dry rub or inject the seasoning directly into the meat.
+4. Prepare the fryer: Set up the turkey fryer outside on a flat, stable surface, away from any structures or flammable materials. Fill the fryer with peanut or canola oil to the 1. recommended level, typically indicated on the fryer. Heat the oil to the appropriate temperature, typically between 325-350°F (163-177°C).
+5. Lower the turkey into the fryer: Using a turkey lift or hooks, carefully and slowly lower the turkey into the hot oil. Make sure the turkey is fully submerged in the oil.
+6. Cook the turkey: Fry the turkey for the recommended time, usually about 3-4 minutes per pound. Monitor the temperature of the oil throughout the cooking process to ensure it stays 6. within the recommended range.
+7. Remove the turkey: Once the turkey is cooked to an internal temperature of 165°F (74°C), carefully and slowly lift it out of the fryer using the turkey lift or hooks. Place it on a wire rack or tray to drain any excess oil.
+8. Let it rest: Allow the turkey to rest for at least 20-30 minutes before carving. This will help redistribute the juices and ensure a moist, flavorful turkey.
+
+Remember to always prioritize safety when deep frying a turkey. Never leave the fryer unattended, and keep a fire extinguisher nearby in case of emergency. Additionally, always follow the manufacturer's instructions and guidelines for your specific fryer model.
+
+
+Below is the instance to be rewritten.
+Please rewrite the answer part of this instance according to the requirements and example provided above.
+
+Question:
+Can you provide alternative phrasings for the given text phrases?
+
+Answer:
+1. "Bees following sound-waves I can't hear, among unbearable waves" could be alternatively phrased as "Bees following sound-waves imperceptible to me, amidst overpowering waves".
+2. "Words spilling out of my mind" can be alternatively phrased as "My thoughts overflowing, pouring out of my mind".
+3. "No romance can ever be a business" can be alternatively phrased as "Love cannot be reduced to a transactional affair".
+4. "Feels the harmony of the cosmos and of diversity" can be alternatively phrased as "Senses the beauty in the cosmic synchronicity and diversity".
+5. "The dive before the jump" can be alternatively phrased as "The plunge preceding the leap".
+

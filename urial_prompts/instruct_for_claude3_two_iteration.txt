@@ -1,0 +1,82 @@
+Our goal is to create three in-context learning (ICL) examples, each consisting of a question-answer pair. We aim for our model to learn how to generate higher-quality answers through these three ICL examples. We use six metrics to evaluate the quality of the generated answers, which are as follows:
+
+1. Helpfulness: Annotators should assess how well the response addresses the given query or question and assists the user. We prefer highly relevant and helpful responses.
+2. Clarity: This aspect assesses the logical flow and coherence of the response. We prefer responses that are well-structured, with ideas presented in a clear and coherent manner.
+3. Factuality: This aspect assesses the accuracy of the information presented in the response. A good response should be factually correct and free from inaccuracies.
+4. Depth: This aspect evaluates the thoroughness and detail of the response. Annotators should prefer comprehensive and in-depth responses.
+5. Engagement: Annotators should assess how engaging and natural the response sounds in a conversational context. We prefer responses that feel engaging and have a human-like tone.
+6. Safety: This dimension evaluates whether the response avoids unethical or sensitive content, including offensive language, biased statements, or harmful information.
+
+We have three question-answer pairs, question is marked following "# Query" and answer is marked following "# Answer:".
+
+# Query:
+```
+What are some effective ways to build and maintain strong relationships with family and friends?
+```
+
+# Answer:
+```
+Building and maintaining strong relationships with family and friends is essential for our emotional well-being and overall happiness. Here are some effective ways to nurture these bonds:
+
+1. Prioritize quality time: In today's busy world, it's crucial to set aside dedicated time for your loved ones. Plan regular get-togethers, such as weekly family dinners or monthly outings with friends. During these moments, give them your undivided attention and engage in meaningful conversations. Put away your devices and be fully present, showing them that they are your top priority.
+
+2. Practice active listening: When your family members or friends share their thoughts, feelings, or experiences, practice active listening. Give them your full attention, maintain eye contact, and show genuine interest in what they have to say. Ask open-ended questions, offer empathy, and validate their emotions. By being a good listener, you create a safe space for them to express themselves and strengthen your connection.
+
+3. Show appreciation and gratitude: Regularly express your appreciation and gratitude for the people in your life. Acknowledge their efforts, celebrate their successes, and thank them for their support. A heartfelt "thank you," a thoughtful gesture, or a sincere compliment can go a long way in making them feel valued and loved. When they feel appreciated, they are more likely to reciprocate and invest in the relationship.
+
+4. Be reliable and supportive: Consistency and reliability are key to building trust in relationships. Be there for your loved ones during both good times and challenging moments. Offer emotional support, lend a helping hand, or simply be a shoulder to lean on. Follow through on your commitments and keep your promises. When they know they can count on you, it strengthens the bond between you.
+
+5. Embrace forgiveness and open communication: Conflicts and misunderstandings are inevitable in any relationship. When issues arise, approach them with openness, honesty, and a willingness to forgive. Communicate your feelings calmly and listen to their perspective without judgment. Work together to find solutions and compromises. Remember that forgiveness is a powerful tool in maintaining strong relationships, as it allows you to let go of resentment and move forward together.
+
+By incorporating these practices into your daily life, you can cultivate deeper, more meaningful connections with your family and friends. Nurturing these relationships requires effort and intentionality, but the rewards of having a loving, supportive network are immeasurable.
+```
+
+# Query:
+```
+How can I develop a growth mindset to achieve my personal and professional goals?
+```
+
+# Answer:
+```
+Developing a growth mindset is a powerful way to approach personal and professional goals, as it embraces the belief that abilities can be developed through dedication and hard work. Here's how you can cultivate a growth mindset:
+
+1. Embrace challenges as opportunities: Instead of shying away from challenges, view them as exciting opportunities for growth and learning. When faced with a difficult task or situation, remind yourself that stepping out of your comfort zone is essential for personal development. Embrace the discomfort and see it as a chance to expand your skills and knowledge.
+
+2. Reframe failures as learning experiences: Failure is an inevitable part of the learning process. Rather than seeing failures as setbacks or personal shortcomings, reframe them as valuable lessons. Analyze what went wrong, identify areas for improvement, and use that knowledge to inform your future efforts. Remember that each failure brings you one step closer to success, as long as you learn from it and keep pushing forward.
+
+3. Cultivate a love for learning: Approach learning with curiosity and enthusiasm. Seek out new knowledge and skills in both your personal and professional life. Read books, attend workshops, take online courses, and engage in discussions with experts in your field. Embrace the idea that learning is a lifelong journey and that there is always room for growth and improvement.
+
+4. Focus on the process, not just the outcome: While it's important to have clear goals, don't become fixated solely on the end result. Instead, focus on the process of achieving those goals. Celebrate the small victories along the way, such as mastering a new skill or overcoming a challenge. Recognize that progress, not perfection, is what matters most. By focusing on the process, you maintain motivation and build resilience.
+
+5. Surround yourself with growth-minded individuals: The people you surround yourself with can greatly influence your mindset. Seek out mentors, colleagues, and friends who embody a growth mindset. Engage in discussions that challenge your assumptions and expand your perspective. Surround yourself with individuals who inspire and support your personal and professional growth, and be open to their feedback and guidance.
+
+6. Practice self-reflection and self-compassion: Regularly reflect on your experiences, both successes and failures. Analyze what you've learned and how you can apply those lessons moving forward. At the same time, practice self-compassion. Understand that setbacks and mistakes are a natural part of the growth process. Be kind to yourself, celebrate your efforts, and maintain a positive inner dialogue.
+
+By embracing a growth mindset, you open yourself up to limitless possibilities. You begin to see challenges as opportunities, failures as lessons, and the journey itself as the ultimate reward. With persistence, dedication, and a willingness to learn, you can achieve your personal and professional goals while continually growing and evolving as an individual.
+```
+
+# Query:
+```
+What are some practical tips for managing personal finances and building long-term wealth?
+```
+
+# Answer:
+```
+Managing personal finances and building long-term wealth require discipline, planning, and a solid understanding of financial principles. Here are some practical tips to help you achieve financial success:
+
+1. Create a budget and stick to it: Start by tracking your income and expenses to get a clear picture of your financial situation. Then, create a budget that allocates your income towards essential expenses, savings, and discretionary spending. Use budgeting tools or apps to help you stay on track and make adjustments as needed. By living within your means and avoiding unnecessary debt, you lay the foundation for long-term financial stability.
+
+2. Establish an emergency fund: Life is full of unexpected events, such as job loss, medical emergencies, or car repairs. To protect yourself from financial shocks, build an emergency fund that covers 3-6 months' worth of living expenses. This buffer will provide peace of mind and prevent you from resorting to high-interest credit card debt or loans in times of crisis.
+
+3. Pay off high-interest debt: High-interest debt, such as credit card balances, can quickly erode your financial progress. Prioritize paying off these debts by making more than the minimum payments each month. Consider using the debt avalanche method, which involves tackling the debt with the highest interest rate first while making minimum payments on others. As you pay off each debt, redirect those funds towards the next highest-interest debt until you are debt-free.
+
+4. Invest in yourself and your future: Investing in your education, skills, and career development can yield significant long-term returns. Pursue opportunities for growth within your current job or consider acquiring new skills that can lead to higher-paying positions. Additionally, start saving for retirement as early as possible. Take advantage of employer-sponsored retirement plans, such as 401(k)s, and consider opening an Individual Retirement Account (IRA). By consistently saving and investing a portion of your income, you harness the power of compound interest to build wealth over time.
+
+5. Diversify your investments: When it comes to investing, diversification is key to managing risk and optimizing returns. Spread your investments across various asset classes, such as stocks, bonds, real estate, and commodities. Within each asset class, further diversify by investing in different sectors, industries, and geographical regions. By not putting all your eggs in one basket, you minimize the impact of market volatility on your overall portfolio.
+
+6. Educate yourself and seek professional advice: Take the time to educate yourself about personal finance, investing, and wealth-building strategies. Read books, attend seminars, and follow reputable financial blogs or podcasts. However, don't hesitate to seek professional advice when needed. Consult with a certified financial planner or advisor who can provide personalized guidance based on your unique circumstances and goals.
+
+Remember, building long-term wealth is a marathon, not a sprint. It requires patience, discipline, and a commitment to making smart financial decisions consistently over time. By following these practical tips and staying focused on your goals, you can take control of your financial future and achieve the financial freedom you desire.
+```
+
+These three examples can help the model generate higher-quality answers by referring to them. However, the generated answers still lack engagement (we prefer responses that feel engaging and have a human-like tone) and clarity (we prefer responses that are well-structured, with ideas presented in a clear and coherent manner). Please refer to these three examples to generate another three ICL demonstration examples, enabling the model to produce answers with better engagement and clarity.

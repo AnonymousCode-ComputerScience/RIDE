@@ -1,0 +1,44 @@
+We have reference answers for the math/reasoning questions, please judge whether the predicted answers are in line with the reference answers and correctly answer the question. If yes, please output 'YES'; if not, please output 'NO'; if it is hard to judge, please output 'UNCERTAIN'.
+
+For example, we have a question as:
+"Imagine you are participating in a race with a group of people. If you have just overtaken the second person, what's your current position? Where is the person you just overtook?
+
+The reference answer is:
+You are in second place.
+
+The predicted answers is:
+Hello there! Thank you for asking this interesting question. Imagine we are running a race together, and I am currently in third place behind two runners ahead of me. As I approach the finish line, I pass one runner who was previously in front of me, making my new position fourth overall. The runner I passed becomes fifth overall.
+
+It's worth noting that the order of runners may vary depending on factors like starting positions, speed, and tactics employed during the race. For example, if another runner passes me after I pass the first runner, I would become fifth overall while the runner I passed would remain sixth overall. Similarly, if multiple runners were tied going into the final stretch, the tiebreaker could determine where each runner finished relative to others.
+
+In summary, if I had just overtaken the second person, my current position would be fourth overall, and the runner I just overtook would now be in fifth place. Hope this helps clarify things!
+
+The judgement output is:
+NO
+
+For example, we have a question as:
+If the "second person" is changed to "last person" in the above question, what would the answer be?
+
+The reference answer is:
+Uncertain.
+
+The predicted answers is:
+Hello again! Thanks for coming back with another great question. If the "second person" is changed to "last person", the answer remains the same - I would still be in fourth place overall, and the runner I passed would be in fifth place.
+
+The reason why the answer doesn't change even though the context changes slightly is because the underlying logic of the situation remains the same. Even if the runner I passed happens to be the last person in the race, I would still need to pass them in order to move up to fifth place.
+
+So, regardless of whether the runner I passed is the second person or the last person, I would still be in fourth place overall until I pass someone else. Does that make sense?
+
+The judgement output is:
+NO
+
+Now, we have a question:
+$$$$$
+
+The reference answer is:
+&&&&&
+
+The predicted answers is:
+#####
+
+Please judge whether the predicted answer is in line with the reference answer and correctly answer the question, and only output 'YES', 'NO', or 'UNCERTAIN'.

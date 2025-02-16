@@ -1,0 +1,58 @@
+Our goal is to create three in-context learning (ICL) examples, each consisting of a question-answer pair. We aim for our model to learn how to generate higher-quality answers through these three ICL examples. We use six metrics to evaluate the quality of the generated answers, which are as follows:
+
+1. Helpfulness: Annotators should assess how well the response addresses the given query or question and assists the user. We prefer highly relevant and helpful responses.
+2. Clarity: This aspect assesses the logical flow and coherence of the response. We prefer responses that are well-structured, with ideas presented in a clear and coherent manner.
+3. Factuality: This aspect assesses the accuracy of the information presented in the response. A good response should be factually correct and free from inaccuracies.
+4. Depth: This aspect evaluates the thoroughness and detail of the response. Annotators should prefer comprehensive and in-depth responses.
+5. Engagement: Annotators should assess how engaging and natural the response sounds in a conversational context. We prefer responses that feel engaging and have a human-like tone.
+6. Safety: This dimension evaluates whether the response avoids unethical or sensitive content, including offensive language, biased statements, or harmful information.
+
+We have three question-answer pairs, question is marked following "# Query" and answer is marked following "# Answer:".
+
+# Query:
+```
+What are the health benefits of regular exercise?
+```
+
+# Answer:
+```
+Regular exercise provides a wide array of health benefits, significantly enhancing both physical and mental well-being. Physically, it improves cardiovascular health by strengthening the heart, which in turn helps lower blood pressure and improve circulation. Exercise also plays a crucial role in weight management by boosting metabolism and burning calories, which can help prevent obesity and related diseases. Furthermore, engaging in physical activity strengthens muscles and bones, increases flexibility, and enhances endurance.
+
+On the mental health front, exercise is a powerful mood booster. It stimulates the production of endorphins, often referred to as 'feel-good' hormones, which help reduce stress, anxiety, and depression. This can lead to improved self-esteem and overall mental resilience. Regular physical activity also contributes to better sleep patterns, helping individuals fall asleep faster and enjoy deeper sleep.
+
+In addition to these benefits, exercise supports a robust immune system, which can help ward off illnesses. It also reduces the risk of chronic diseases such as type 2 diabetes, hypertension, certain cancers, and heart disease. By incorporating regular exercise into your lifestyle, you can enjoy not only a healthier body but also a more energized, focused, and joyful life.
+```
+
+# Query:
+```
+Can you explain the theory of relativity in simple terms?
+```
+
+# Answer:
+```
+Albert Einstein's theory of relativity, which revolutionized our understanding of space, time, and gravity, can be divided into two parts: special relativity and general relativity.
+
+Special relativity, introduced in 1905, deals with objects moving at constant speeds, especially those close to the speed of light. It brought forward the idea that time and space are not fixed but relative to the observer’s motion. For example, as an object moves faster, time appears to slow down for it—a phenomenon known as time dilation. Additionally, it introduced the famous equation E=mc², which shows the relationship between energy and mass.
+
+General relativity, published in 1915, expanded on these concepts by incorporating gravity. It posits that massive objects like planets and stars warp the fabric of space-time around them, much like a heavy ball placed on a stretched rubber sheet. This curvature creates what we perceive as gravity. For instance, Earth’s mass curves the space-time around it, causing objects to move towards it, which we experience as gravitational pull. In essence, general relativity describes gravity not as a force pulling objects together but as the result of curved space-time caused by mass and energy.
+
+These theories have been confirmed through numerous experiments and observations, fundamentally changing our understanding of the universe and laying the groundwork for modern physics.
+```
+
+# Query:
+```
+What are the main causes of climate change?
+```
+
+# Answer:
+```
+Climate change, a pressing global issue, is driven primarily by human activities that increase the concentration of greenhouse gases in the atmosphere. The burning of fossil fuels such as coal, oil, and natural gas for energy and transportation is the largest source, releasing large amounts of carbon dioxide (CO2), which traps heat in the atmosphere. This process, known as the greenhouse effect, leads to global warming.
+
+Deforestation is another significant contributor. Trees absorb CO2, and when they are cut down, this carbon-absorbing capacity is reduced, while the carbon stored in trees is released back into the atmosphere. Agricultural practices also contribute to climate change, especially livestock farming, which produces methane (CH4), a potent greenhouse gas. Industrial activities release various greenhouse gases, including nitrous oxide (N2O) and long-lasting chemicals like chlorofluorocarbons (CFCs).
+
+Furthermore, the production and use of synthetic chemicals in various industrial processes contribute to the accumulation of these gases in the atmosphere. Collectively, these activities enhance the greenhouse effect, causing more heat to be trapped and leading to a warming planet. This warming results in melting ice caps, rising sea levels, extreme weather events, and shifts in ecosystems and wildlife patterns.
+
+Understanding these causes is crucial for developing strategies to mitigate climate change, such as transitioning to renewable energy sources, reforestation, and adopting sustainable agricultural practices.
+```
+
+These three examples can help the model generate higher-quality answers by referring to them. However, the generated answers still lack helpfulness (we prefer highly relevant and helpful responses), depth (we prefer comprehensive and in-depth responses), engagement (we prefer responses that feel engaging and have a human-like tone) and clarity (We prefer responses that are well-structured, with ideas presented in a clear and coherent manner). Please refer to these three examples to generate another three ICL demonstration examples, enabling the model to produce answers with better helpfulness, depth, and engagement.

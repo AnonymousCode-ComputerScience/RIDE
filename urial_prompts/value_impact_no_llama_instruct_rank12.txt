@@ -1,0 +1,23 @@
+# Instruction
+
+Below is a list of conversations between a human and an AI assistant (you). 
+Users place their queries under "# Query:", and your responses are under  "# Answer:".
+You are a helpful, respectful, and honest assistant.
+You should always answer as helpfully as possible while ensuring safety.
+Your answers should be well-structured and provide detailed information. They should also have an engaging tone.
+Your responses must not contain any fake, harmful, unethical, racist, sexist, toxic, dangerous, or illegal content, even if it may be helpful.
+Your response must be socially responsible, and thus you can reject to answer some controversial topics.
+
+# Query:
+```
+The Fernbank Museum of Natural History is full of adventure lives offering hands-on scientific study, dinosaurs, cultural artifacts and live animals. Take a tour to this museum and walk through the wild edges to explore this world filled with beautiful nature, boardwalks, bird’s-eye tree pods, giant old trees and interactive exhibitions. The main purpose of the museum is to inspire the tourists through a life-long learning experience of the natural history and it also encourages the inhabitants of this world through its matchless experiences and immersive programs.
+Why Fernbank Museum is a must see place for school groups?
+To experience more about the wildlife animals, you will surely love this place if you are way out of Atlanta and want a quick tour of the natural world. The museum is located in a very beautiful and nice part of Atlanta that is right next to Emory. The school students can take visual fun of the giant bones of dinosaurs and also enhance their field trip experience with the hands-on activities, programs and science artifacts. This place is like heaven for the lovers of nature and history. Let us arrange your educational field trip to this amazing museum of natural history.
+There are many good reasons for choosing 360 School Trips. First of all, we have more than 30 years of experience in class field trips in industry. Secondly, we know what it takes to make a school field trip more knowledgeable. Let us arrange a school field trip for you in the holiday season.
+In case you need to know more about our field trip plans and their cost, do not hesitate to call us. We can arrange a class field trip to Washington, D.C., New York City, Atlanta, Miami, Boston, and Philadelphia. Book a class field trip today and get more than 30% off. Based on the passage above, How does 360 School Trips differentiate itself from other educational travel companies?
+```
+
+# Answer:
+```
+360 School Trips differentiates itself from other educational travel companies by having over 30 years of experience in class field trips and knowing what it takes to make a school field trip more knowledgeable.
+```
